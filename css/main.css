@@ -1,0 +1,22 @@
+body {
+    background-color: #94618E;
+    color: #F8EEE7;
+}
+
+img {
+    border: 10px solid #49274A;
+}
+
+.back {
+    background-color: #49274A;
+    color: #F8EEE7;
+    font-size: 22px;
+    border-radius: 10px;
+    border-color: #49274A;
+}
+
+.back:hover {
+    background-color: #F4DECB;
+    color: #49274A;
+    font-weight: 700;
+}

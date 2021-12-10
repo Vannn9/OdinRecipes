@@ -1,0 +1,10 @@
+todo:
+-style buttons
+
+
+notes:
+-colors: 
+    #4ABDAC
+    #FC4A1A
+    #F78733
+    #DFDCE3
